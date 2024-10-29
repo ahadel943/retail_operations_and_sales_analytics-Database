@@ -1,0 +1,11 @@
+Product_Name,Total_Returns,Return_Rate,Return_Reason
+individual,3,60.0000,Defective
+hear,4,50.0000,Defective
+drug,3,50.0000,Defective
+billion,3,42.8571,"Wrong Item"
+suggest,3,42.8571,"Wrong Item"
+everyone,2,40.0000,Defective
+rest,3,37.5000,Defective
+stage,4,33.3333,Defective
+stage,2,33.3333,"Wrong Item"
+clear,3,33.3333,"Wrong Item"

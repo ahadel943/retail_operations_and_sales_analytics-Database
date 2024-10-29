@@ -1,0 +1,10 @@
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (87848269, 'PayPal');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (80649386, 'Credit Card');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (80397916, 'Credit Card');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (81530784, 'Cash');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (82307144, 'Credit Card');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (83625749, 'Cash');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (88786451, 'Credit Card');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (80228444, 'Debit Card');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (87934758, 'PayPal');
+INSERT INTO Payment_Methods (Payment_Method_ID, Payment_Method_Name) VALUES (84375419, 'Cash');
