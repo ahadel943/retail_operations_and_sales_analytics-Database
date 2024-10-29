@@ -1,3 +1,4 @@
+![cover](https://github.com/ahadel943/retail_operations_and_sales_analytics_database/blob/main/assets/cover.jpg)
 # Retail Operations and Sales Analytics Database
 
 # Introduction
@@ -14,6 +15,7 @@ The Retail Analytics Database consists of **14** interconnected tables capturing
 3) **Darw.io desktop** for Diagraming.
 
 ## Entity Relationship Diagram
+![erd](https://github.com/ahadel943/retail_operations_and_sales_analytics_database/blob/main/assets/erd.jpg)
 
 ## Database Tables
 
